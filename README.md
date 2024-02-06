@@ -1,4 +1,4 @@
-# 🏄‍♂️ PEDRO CABRERA MERCADO
+# PEDRO CABRERA MERCADO
 
 **`Data Enginner (Analyst/Dataflow/Business)`**
 
