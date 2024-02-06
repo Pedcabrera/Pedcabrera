@@ -2,7 +2,7 @@
 
 **`Data Enginner (Analyst/Dataflow/Business)`**
 
-I'm industrial engineering to focus in build modeling of data, analyze data and give insight to improve business goals. I have seven years experience to working with different database, business intelligence tools and language programs. I know Bank industry, Telco Industry, Ecommerce digital.
+I'm industrial engineering to focus in build modeling of data, analyze data and give insight to improve business goals. I have seven years experience to working with different database, business intelligence tools and language programs. I know Bank industry, Telco Industry and Ecommerce digital. Actually I work complete time in Pichincha Bank from Peru and some time I work freelancer to others company. Finally I dabbling in tech data analyst with Power BI to Tecnology Institute (CIBERTEC). 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
