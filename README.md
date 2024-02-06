@@ -4,13 +4,13 @@
 
 I'm industrial engineering with 7+ years of experience in data modeling, analysis, and business intelligence. Proven ability to leverage diverse knowledge of databases, tools, and programming languages to extract data, and i give insights to improve business outcomes. I have experience in banking, telecommunications, insurance and e-commerce sectors. Currently employed at Pichincha Bank (Peru) while also undertaking freelance data enginner projects. Finally I dabbling in tech data analyst with Power BI to Tecnology Institute (CIBERTEC). 
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-      <a href="https://github.com/ForrestKnight?tab=Linkedin">
-         <img alt="followers" title="Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="Whatsapp" title="Contact me" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+ <p align="left">
+   <a href="https://www.linkedin.com/in/pedro-cabrera-894276107">
+      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/contacts?color=2867B2&style=for-the-badge&logo=linkedin&label=Connect&labelColor=0e76a8"/></a>
+   <a href="https://wa.me/51963352202">
+      <img alt="WhatsApp" title="Contact me on WhatsApp" src="https://custom-icon-badges.demolab.com/whatsapp/contacts?color=25D366&style=for-the-badge&logo=whatsapp&label=Contact&labelColor=075e54"/></a>
+</p>
+
 
 ---
 
