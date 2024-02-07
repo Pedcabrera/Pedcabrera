@@ -8,7 +8,7 @@ I'm industrial engineering with 7+ years of experience in data modeling, analysi
   <a href="https://www.linkedin.com/in/pedro-cabrera-894276107">
    <img alt="Linkedin" title="Connect with me on LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a>
   <a href="https://wa.me/51963352202">
-   <img alt="WhatsApp" title="Contact me on WhatsApp" src="https://custom-icon-badges.demolab.com/whatsapp/contacts?color=25D366&style=for-the-badge&logo=whatsapp&label=Contact&labelColor=075e54"/></a>
+   <img alt="WhatsApp" title="Contact me on WhatsApp" src="https://img.icons8.com/doodle/40/000000/whatsapp--v2.png"/></a>
 </p>
 
 
