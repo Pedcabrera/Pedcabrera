@@ -6,7 +6,7 @@ I'm industrial engineering with 7+ years of experience in data modeling, analysi
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-cabrera-894276107">
-   <img alt="LinkedIn" title="Connect with me on LinkedIn" src="public/icons/spotify/spotify.svg"/></a>
+   <img alt="linkedIn" title="Connect with me on LinkedIn" src="public/icons/linkedin/linkedin.svg"/></a>
   <a href="https://wa.me/51963352202">
    <img alt="WhatsApp" title="Contact me on WhatsApp" src="https://custom-icon-badges.demolab.com/whatsapp/contacts?color=25D366&style=for-the-badge&logo=whatsapp&label=Contact&labelColor=075e54"/></a>
 </p>
